@@ -53,3 +53,10 @@ function validateEmail(email){
 	let pattern = /^[_a-z0-9]+(\.[a-z0-9-]+)*@[a-z0-9]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})/
 	return pattern.test(email)
 }
+
+
+
+
+
+
+
